@@ -308,6 +308,9 @@ section h3.section-subheading {
   margin: 15px 0;
   text-transform: none;
 }
+section#services p {
+  text-align: justify;
+}
 
 #portfolio {
   border : 1px solid #011733;
